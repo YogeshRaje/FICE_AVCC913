@@ -25,7 +25,7 @@ Task2-Run python file on CPU , GPU and FPGA uisng Intel Distribution of Python
 step1) Upload file demo_python1.py
 or 
 open terminal and run command 
-git clone https://github.com/YogeshRaje/FICE_AVVC
+git clone https://github.com/YogeshRaje/FICE_AVVC913
 
 step2) Create run.sh file 
 $nano run.sh 
