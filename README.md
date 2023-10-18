@@ -10,4 +10,4 @@ $ conda create --name openvino_2023 python=3.9
 
 $ conda activate openvino_2023
 
-$ conda deactivate
+
